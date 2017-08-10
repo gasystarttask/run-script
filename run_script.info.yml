@@ -1,0 +1,6 @@
+name: Run script
+description: Module that allows user to run, monitor and control script php on drupal.
+package: Custom
+
+type: module
+core: 8.x
